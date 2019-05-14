@@ -1,1 +1,1 @@
-This is sample file, that need to commited.
+This is changed sample file, that need to commited.
